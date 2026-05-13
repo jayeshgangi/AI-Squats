@@ -1,0 +1,108 @@
+2026-03-30 16:27:55,596 - ERROR - Error processing video: module 'ntpath' has no attribute 'jjoin'
+2026-03-30 16:29:34,310 - INFO - Received file : me.mp4
+2026-03-30 16:29:34,340 - INFO - File saved. Starting processing...
+2026-03-30 16:29:34,347 - INFO - Loading video: C:\Users\addys\OneDrive\Desktop\Sports\Squats_EXP\Input\8d7e6418-c414-4927-ad8f-775bebe259df_me.mp4
+2026-03-30 16:29:34,382 - INFO - Video properties - FPS: 60.01580353447303, Total Frames: 638, Resolution: 1920 x 1080
+2026-03-30 16:29:34,438 - INFO - Starting video processing...
+2026-03-30 16:32:46,208 - INFO -  Processed complete. Total Squats Counted: 4
+2026-03-30 16:37:20,040 - INFO - Received file : Squat.mp4
+2026-03-30 16:37:20,050 - INFO - File saved. Starting processing...
+2026-03-30 16:37:20,054 - INFO - Loading video: C:\Users\addys\OneDrive\Desktop\Sports\Squats_EXP\Input\4480e40d-665a-4459-bc05-7af36e4bee76_Squat.mp4
+2026-03-30 16:37:20,144 - INFO - Video properties - FPS: 29.846, Total Frames: 635, Resolution: 1080 x 1440
+2026-03-30 16:37:20,205 - INFO - Starting video processing...
+2026-03-30 16:37:34,892 - INFO - Processing frame 50/635 | Squats: 0
+2026-03-30 16:37:47,887 - INFO - Processing frame 100/635 | Squats: 0
+2026-03-30 16:38:00,740 - INFO - Processing frame 150/635 | Squats: 1
+2026-03-30 16:38:15,001 - INFO - Processing frame 200/635 | Squats: 2
+2026-03-30 16:38:29,127 - INFO - Processing frame 250/635 | Squats: 2
+2026-03-30 16:38:43,457 - INFO - Processing frame 300/635 | Squats: 3
+2026-03-30 16:38:57,568 - INFO - Processing frame 350/635 | Squats: 3
+2026-03-30 16:39:11,160 - INFO - Processing frame 400/635 | Squats: 3
+2026-03-30 16:39:24,197 - INFO - Processing frame 450/635 | Squats: 4
+2026-03-30 16:39:37,375 - INFO - Processing frame 500/635 | Squats: 4
+2026-03-30 16:39:50,423 - INFO - Processing frame 550/635 | Squats: 5
+2026-03-30 16:40:04,413 - INFO - Processing frame 600/635 | Squats: 5
+2026-03-30 16:40:14,032 - INFO -  Processed complete. Total Squats Counted: 6
+2026-03-30 16:42:08,955 - INFO - Received file : Squats_project.mp4
+2026-03-30 16:42:09,896 - INFO - File saved. Starting processing...
+2026-03-30 16:42:09,899 - INFO - Loading video: C:\Users\addys\OneDrive\Desktop\Sports\Squats_EXP\Input\d65b7a54-7eef-4b4d-89b4-c7b6e3981d93_Squats_project.mp4
+2026-03-30 16:42:09,982 - INFO - Video properties - FPS: 30.0, Total Frames: 5041, Resolution: 1920 x 1080
+2026-03-30 16:42:10,027 - INFO - Starting video processing...
+2026-03-30 16:42:39,775 - INFO - Processing frame 100/5041 | Squats: 1
+2026-03-30 16:43:08,555 - INFO - Processing frame 200/5041 | Squats: 2
+2026-03-30 16:43:38,722 - INFO - Processing frame 300/5041 | Squats: 3
+2026-03-30 16:44:09,840 - INFO - Processing frame 400/5041 | Squats: 5
+2026-03-30 16:44:40,409 - INFO - Processing frame 500/5041 | Squats: 6
+2026-03-30 16:45:09,652 - INFO - Processing frame 600/5041 | Squats: 8
+2026-03-30 16:45:40,105 - INFO - Processing frame 700/5041 | Squats: 10
+2026-03-30 16:46:09,135 - INFO - Processing frame 800/5041 | Squats: 11
+2026-03-30 16:46:40,425 - INFO - Processing frame 900/5041 | Squats: 11
+2026-03-30 16:47:10,628 - INFO - Processing frame 1000/5041 | Squats: 11
+2026-03-30 16:47:40,475 - INFO - Processing frame 1100/5041 | Squats: 12
+2026-03-30 16:48:10,348 - INFO - Processing frame 1200/5041 | Squats: 14
+2026-03-30 16:48:41,131 - INFO - Processing frame 1300/5041 | Squats: 15
+2026-03-30 16:49:10,260 - INFO - Processing frame 1400/5041 | Squats: 17
+2026-03-30 16:49:40,888 - INFO - Processing frame 1500/5041 | Squats: 18
+2026-03-30 16:50:09,753 - INFO - Processing frame 1600/5041 | Squats: 20
+2026-03-30 16:50:41,540 - INFO - Processing frame 1700/5041 | Squats: 21
+2026-03-30 16:51:13,047 - INFO - Processing frame 1800/5041 | Squats: 22
+2026-03-30 16:51:44,491 - INFO - Processing frame 1900/5041 | Squats: 24
+2026-03-30 16:52:17,110 - INFO - Processing frame 2000/5041 | Squats: 25
+2026-03-30 16:52:49,735 - INFO - Processing frame 2100/5041 | Squats: 27
+2026-03-30 16:53:20,374 - INFO - Processing frame 2200/5041 | Squats: 28
+2026-03-30 16:53:51,564 - INFO - Processing frame 2300/5041 | Squats: 29
+2026-03-30 16:54:23,294 - INFO - Processing frame 2400/5041 | Squats: 31
+2026-03-30 16:54:54,215 - INFO - Processing frame 2500/5041 | Squats: 32
+2026-03-30 16:55:26,280 - INFO - Processing frame 2600/5041 | Squats: 33
+2026-03-30 16:55:57,067 - INFO - Processing frame 2700/5041 | Squats: 34
+2026-03-30 16:56:29,244 - INFO - Processing frame 2800/5041 | Squats: 36
+2026-03-30 16:57:00,185 - INFO - Processing frame 2900/5041 | Squats: 37
+2026-03-30 16:57:30,522 - INFO - Processing frame 3000/5041 | Squats: 38
+2026-03-30 16:57:58,169 - INFO - Processing frame 3100/5041 | Squats: 39
+2026-03-30 16:58:12,978 - INFO - Processing frame 3200/5041 | Squats: 41
+2026-03-30 16:58:29,202 - INFO - Processing frame 3300/5041 | Squats: 42
+2026-03-30 16:58:46,316 - INFO - Processing frame 3400/5041 | Squats: 43
+2026-03-30 16:59:01,743 - INFO - Processing frame 3500/5041 | Squats: 44
+2026-03-30 16:59:16,409 - INFO - Processing frame 3600/5041 | Squats: 46
+2026-03-30 16:59:31,298 - INFO - Processing frame 3700/5041 | Squats: 47
+2026-03-30 16:59:45,922 - INFO - Processing frame 3800/5041 | Squats: 48
+2026-03-30 17:00:01,061 - INFO - Processing frame 3900/5041 | Squats: 50
+2026-03-30 17:00:16,078 - INFO - Processing frame 4000/5041 | Squats: 51
+2026-03-30 17:00:31,107 - INFO - Processing frame 4100/5041 | Squats: 52
+2026-03-30 17:00:46,275 - INFO - Processing frame 4200/5041 | Squats: 53
+2026-03-30 17:01:01,076 - INFO - Processing frame 4300/5041 | Squats: 54
+2026-03-30 17:01:16,235 - INFO - Processing frame 4400/5041 | Squats: 55
+2026-03-30 17:01:31,089 - INFO - Processing frame 4500/5041 | Squats: 57
+2026-03-30 17:01:45,929 - INFO - Processing frame 4600/5041 | Squats: 58
+2026-03-30 17:02:16,481 - INFO - Processing frame 4800/5041 | Squats: 60
+2026-03-30 17:02:32,802 - INFO - Processing frame 4900/5041 | Squats: 62
+2026-03-30 17:02:48,648 - INFO - Processing frame 5000/5041 | Squats: 63
+2026-03-30 17:02:54,665 - INFO -  Processing complete. Total Squats Counted: 63
+2026-03-30 17:44:39,096 - INFO - All folders ready
+2026-03-30 17:45:29,428 - INFO - Received file : fastapi_Squats_project_1774872929
+2026-03-30 17:45:30,255 - INFO - File saved. Starting processing...
+2026-03-30 17:45:30,263 - INFO - Loading video: C:\Users\addys\OneDrive\Desktop\Sports\Squats_EXP\Input\fastapi_Squats_project_1774872929.mp4
+2026-03-30 17:45:30,352 - INFO - Video properties - FPS: 30.0, Total Frames: 5041, Resolution: 1920 x 1080
+2026-03-30 17:45:30,422 - INFO - Starting video processing...
+2026-03-30 18:08:51,003 - INFO -  Processing complete. Total Squats Counted: 63
+2026-03-30 18:47:06,015 - INFO - All folders ready
+2026-03-30 18:48:12,208 - INFO - All folders ready
+2026-03-30 18:50:43,526 - INFO - All folders ready
+2026-03-30 18:51:07,533 - INFO - All folders ready
+2026-03-30 18:52:44,150 - INFO - All folders ready
+2026-04-01 13:34:35,120 - INFO - All folders ready
+2026-04-01 13:34:37,756 - INFO - Shutting down app
+2026-04-01 13:35:05,323 - INFO - All folders ready
+2026-04-01 13:36:23,124 - INFO - Shutting down app
+2026-04-01 13:36:50,360 - INFO - All folders ready
+2026-04-01 13:37:24,131 - INFO - Received file : fastapi_Best_squats
+2026-04-01 13:37:24,136 - INFO - File saved. Starting processing...
+2026-04-01 13:37:24,145 - INFO - Loading video: C:\Users\addys\OneDrive\Desktop\Sports\Squats_EXP\Input\fastapi_Best_squats.mp4
+2026-04-01 13:37:24,213 - INFO - Video properties - FPS: 30.0, Total Frames: 254, Resolution: 720 x 1280
+2026-04-01 13:37:24,308 - INFO - Starting video processing...
+2026-04-01 13:38:29,907 - INFO -  Processing complete. Total Squats Counted: 2
+2026-04-01 13:39:30,404 - INFO - Shutting down app
+2026-04-01 13:39:35,618 - INFO - All folders ready
+2026-04-01 13:39:43,044 - INFO - Shutting down app
+2026-04-01 13:39:50,336 - INFO - All folders ready
+2026-04-01 13:41:09,879 - INFO - Shutting down app
